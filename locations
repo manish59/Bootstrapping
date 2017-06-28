@@ -1,0 +1,41 @@
+Microsoft\Command Processor
+Microsoft\Windows NT\CurrentVersion\AeDebug
+Microsoft\Windows\CurrentVersion\Explorer\Browser Helper Objects
+CurrentControlSet\Control\Lsa
+CurrentControlSet\Control\Lsa\OSConfig
+CurrentControlSet\Control\Lsa\OSConfig
+Microsoft\Windows\CurrentVersion\Policies\Explorer\Run
+Microsoft\Windows\CurrentVersion\Run
+Microsoft\Windows\CurrentVersion\RunOnce
+Microsoft\Windows\CurrentVersion\RunOnce\Setup
+Microsoft\Windows\CurrentVersion\RunOnceEx
+Microsoft\Windows\CurrentVersion\Run
+Microsoft\Windows\CurrentVersion\RunOnce
+Microsoft\Windows\CurrentVersion\Policies\Explorer\Run
+Microsoft\Windows\CurrentVersion\Policies\Explorer\Run
+Microsoft\Windows\CurrentVersion\RunOnce\Setup
+Microsoft\Windows\CurrentVersion\RunServicesOnce
+Microsoft\Windows\CurrentVersion\RunServices
+Microsoft\Windows\CurrentVersion\RunServicesOnce
+Microsoft\Windows\CurrentVersion\RunServices
+Microsoft\Windows\CurrentVersion\RunServicesOnce
+Microsoft\Windows\CurrentVersion\RunServices
+CurrentControlSet\Control\Session Manager
+System\CurrentControlSet\Control\Session Manager\WOW
+System\CurrentControlSet\Control
+Microsoft\Windows\CurrentVersion\Explorer\ShellIconOverlayIdentifiers
+Microsoft\Windows\CurrentVersion\Shell Extensions\Approved
+Microsoft\Windows\CurrentVersion\Explorer\ShellExecuteHooks
+Microsoft\Windows NT\CurrentVersion\Windows
+Microsoft\Windows\CurrentVersion\ShellServiceObjectDelayLoad
+Microsoft\Windows\CurrentVersion\Authentication\Credential Provider Filters
+Microsoft\Windows\CurrentVersion\Authentication\Credential Providers
+Microsoft\Windows\CurrentVersion\Authentication\PLAP Providers
+Microsoft\Windows NT\CurrentVersion\Winlogon\Notify
+Microsoft\Windows NT\CurrentVersion\Winlogon
+Microsoft\Windows\CurrentVersion\Policies\System
+Microsoft\Active Setup\Installed Components
+Microsoft\Windows NT\CurrentVersion\Windows
+CurrentControlSet\Control\SecurityProviders
+CurrentControlSet\Control\SafeBoot
+CurrentControlSet\Control\BootVerificationProgram

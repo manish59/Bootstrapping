@@ -1,0 +1,75 @@
+Offset(P)          Proto    Local Address                  Foreign Address      State            Pid      Owner          Created
+0xc527ac8          UDPv4    0.0.0.0:5355                   *:*                                   1256     svchost.exe    2017-04-15 19:08:21 UTC+0000
+0xe62d4a8          TCPv4    0.0.0.0:49154                  0.0.0.0:0            LISTENING        956      svchost.exe    
+0x11500d48         UDPv4    192.168.194.128:138            *:*                                   4        System         2017-04-15 19:08:18 UTC+0000
+0x19b62b30         TCPv4    127.0.0.1:49200                127.0.0.1:9050       ESTABLISHED      2784     iexplore.exe   
+0x1d8bb2b8         TCPv4    0.0.0.0:49152                  0.0.0.0:0            LISTENING        428      wininit.exe    
+0x1d8bb2b8         TCPv6    :::49152                       :::0                 LISTENING        428      wininit.exe    
+0x1d8bb730         TCPv4    0.0.0.0:49152                  0.0.0.0:0            LISTENING        428      wininit.exe    
+0x28b75290         UDPv4    0.0.0.0:3702                   *:*                                   3128     svchost.exe    2017-04-15 19:08:59 UTC+0000
+0x2b2f51a8         UDPv4    0.0.0.0:3702                   *:*                                   3128     svchost.exe    2017-04-15 19:08:59 UTC+0000
+0x2baf5a10         UDPv4    0.0.0.0:3702                   *:*                                   3128     svchost.exe    2017-04-15 19:08:59 UTC+0000
+0x2baf5a10         UDPv6    :::3702                        *:*                                   3128     svchost.exe    2017-04-15 19:08:59 UTC+0000
+0x2b8d8af0         TCPv4    0.0.0.0:49154                  0.0.0.0:0            LISTENING        956      svchost.exe    
+0x2b8d8af0         TCPv6    :::49154                       :::0                 LISTENING        956      svchost.exe    
+0x2c3efa30         TCPv4    192.168.194.128:49197          78.108.46.114:9001   ESTABLISHED      2800     iexplore.exe   
+0x2cfb64b8         UDPv4    0.0.0.0:3702                   *:*                                   1128     svchost.exe    2017-04-15 19:08:59 UTC+0000
+0x2e0f6158         TCPv4    127.0.0.1:49172                127.0.0.1:9050       CLOSED           2784     iexplore.exe   
+0x2fc8bc98         UDPv4    0.0.0.0:5355                   *:*                                   1256     svchost.exe    2017-04-15 19:08:21 UTC+0000
+0x2fc8bc98         UDPv6    :::5355                        *:*                                   1256     svchost.exe    2017-04-15 19:08:21 UTC+0000
+0x3059e210         TCPv4    192.168.194.128:139            0.0.0.0:0            LISTENING        4        System         
+0x31fcedf8         TCPv4    127.0.0.1:49201                127.0.0.1:9050       ESTABLISHED      2784     iexplore.exe   
+0x320989b0         TCPv4    0.0.0.0:49153                  0.0.0.0:0            LISTENING        796      svchost.exe    
+0x320989b0         TCPv6    :::49153                       :::0                 LISTENING        796      svchost.exe    
+0x32098f60         TCPv4    0.0.0.0:49153                  0.0.0.0:0            LISTENING        796      svchost.exe    
+0x33798b88         TCPv4    0.0.0.0:135                    0.0.0.0:0            LISTENING        744      svchost.exe    
+0x33798b88         TCPv6    :::135                         :::0                 LISTENING        744      svchost.exe    
+0x347067e0         TCPv4    0.0.0.0:135                    0.0.0.0:0            LISTENING        744      svchost.exe    
+0x3ab97008         TCPv4    127.0.0.1:49159                127.0.0.1:49158      ESTABLISHED      2800     iexplore.exe   
+0x3da1a470         UDPv6    ::1:51161                      *:*                                   3128     svchost.exe    2017-04-15 19:08:59 UTC+0000
+0x3da1ad88         UDPv4    127.0.0.1:51163                *:*                                   3128     svchost.exe    2017-04-15 19:08:59 UTC+0000
+0x3da24b28         UDPv4    192.168.194.128:1900           *:*                                   3128     svchost.exe    2017-04-15 19:08:59 UTC+0000
+0x3da25930         UDPv6    ::1:1900                       *:*                                   3128     svchost.exe    2017-04-15 19:08:59 UTC+0000
+0x3da25d80         UDPv6    fe80::c5b4:9b5f:65f5:5240:1900 *:*                                   3128     svchost.exe    2017-04-15 19:08:59 UTC+0000
+0x3da2af50         UDPv4    127.0.0.1:1900                 *:*                                   3128     svchost.exe    2017-04-15 19:08:59 UTC+0000
+0x3daadd78         UDPv4    192.168.194.128:51162          *:*                                   3128     svchost.exe    2017-04-15 19:08:59 UTC+0000
+0x3dc05868         UDPv4    192.168.194.128:137            *:*                                   4        System         2017-04-15 19:08:18 UTC+0000
+0x3dc66850         UDPv4    0.0.0.0:0                      *:*                                   1256     svchost.exe    2017-04-15 19:08:20 UTC+0000
+0x3dc66850         UDPv6    :::0                           *:*                                   1256     svchost.exe    2017-04-15 19:08:20 UTC+0000
+0x3ddc3610         UDPv4    0.0.0.0:3702                   *:*                                   1128     svchost.exe    2017-04-15 19:08:59 UTC+0000
+0x3ddc3610         UDPv6    :::3702                        *:*                                   1128     svchost.exe    2017-04-15 19:08:59 UTC+0000
+0x3ddc3b68         UDPv4    0.0.0.0:3702                   *:*                                   1128     svchost.exe    2017-04-15 19:08:59 UTC+0000
+0x3ddc3b68         UDPv6    :::3702                        *:*                                   1128     svchost.exe    2017-04-15 19:08:59 UTC+0000
+0x3ddc53a0         UDPv4    0.0.0.0:54403                  *:*                                   1128     svchost.exe    2017-04-15 19:08:59 UTC+0000
+0x3ddc53a0         UDPv6    :::54403                       *:*                                   1128     svchost.exe    2017-04-15 19:08:59 UTC+0000
+0x3ddc5ac0         UDPv4    0.0.0.0:54402                  *:*                                   1128     svchost.exe    2017-04-15 19:08:59 UTC+0000
+0x3da6b660         TCPv4    0.0.0.0:49156                  0.0.0.0:0            LISTENING        508      lsass.exe      
+0x3da6e2d8         TCPv4    0.0.0.0:49156                  0.0.0.0:0            LISTENING        508      lsass.exe      
+0x3da6e2d8         TCPv6    :::49156                       :::0                 LISTENING        508      lsass.exe      
+0x3db5e838         TCPv4    127.0.0.1:9050                 0.0.0.0:0            LISTENING        2800     iexplore.exe   
+0x3db6a9d8         TCPv4    127.0.0.1:42349                0.0.0.0:0            LISTENING        2784     iexplore.exe   
+0x3dc13430         TCPv4    0.0.0.0:49155                  0.0.0.0:0            LISTENING        500      services.exe   
+0x3dc13430         TCPv6    :::49155                       :::0                 LISTENING        500      services.exe   
+0x3dc17750         TCPv4    0.0.0.0:49155                  0.0.0.0:0            LISTENING        500      services.exe   
+0x3dc244e8         TCPv4    0.0.0.0:445                    0.0.0.0:0            LISTENING        4        System         
+0x3dc244e8         TCPv6    :::445                         :::0                 LISTENING        4        System         
+0x3dabcdf8         TCPv4    192.168.194.128:49196          82.103.140.87:443    ESTABLISHED      2800     iexplore.exe   
+0x3db04d00         TCPv4    192.168.194.128:49198          89.163.225.145:443   ESTABLISHED      2800     iexplore.exe   
+0x3db692e8         TCPv4    192.168.194.128:49161          5.2.75.42:443        ESTABLISHED      2800     iexplore.exe   
+0x3db75258         TCPv4    127.0.0.1:9050                 127.0.0.1:49201      ESTABLISHED      2800     iexplore.exe   
+0x3db7b6d0         TCPv4    192.168.194.128:49174          84.245.27.209:9001   ESTABLISHED      2800     iexplore.exe   
+0x3dbc7060         TCPv4    192.168.194.128:49164          88.99.75.94:443      ESTABLISHED      2800     iexplore.exe   
+0x3dbc8660         TCPv4    192.168.194.128:49163          62.210.123.24:443    ESTABLISHED      2800     iexplore.exe   
+0x3dbc9a20         TCPv4    192.168.194.128:49165          89.163.141.115:9001  ESTABLISHED      2800     iexplore.exe   
+0x3e901548         UDPv4    0.0.0.0:3702                   *:*                                   1128     svchost.exe    2017-04-15 19:08:59 UTC+0000
+0x3ebf3758         UDPv6    fe80::c5b4:9b5f:65f5:5240:51160 *:*                                   3128     svchost.exe    2017-04-15 19:08:59 UTC+0000
+0x3e88a2d0         TCPv4    0.0.0.0:5357                   0.0.0.0:0            LISTENING        4        System         
+0x3e88a2d0         TCPv6    :::5357                        :::0                 LISTENING        4        System         
+0x3e8d1a70         TCPv4    127.0.0.1:9050                 127.0.0.1:49200      ESTABLISHED      2800     iexplore.exe   
+0x3f26a4c8         UDPv4    0.0.0.0:54400                  *:*                                   3128     svchost.exe    2017-04-15 19:08:59 UTC+0000
+0x3f26aae0         UDPv4    0.0.0.0:3702                   *:*                                   3128     svchost.exe    2017-04-15 19:08:59 UTC+0000
+0x3f26aae0         UDPv6    :::3702                        *:*                                   3128     svchost.exe    2017-04-15 19:08:59 UTC+0000
+0x3f26ce38         UDPv4    0.0.0.0:54401                  *:*                                   3128     svchost.exe    2017-04-15 19:08:59 UTC+0000
+0x3f26ce38         UDPv6    :::54401                       *:*                                   3128     svchost.exe    2017-04-15 19:08:59 UTC+0000
+0x3f249008         TCPv4    192.168.194.128:49162          85.145.173.31:443    ESTABLISHED      2800     iexplore.exe   
+0x3ff17008         TCPv4    127.0.0.1:49158                127.0.0.1:49159      ESTABLISHED      2800     iexplore.exe   
